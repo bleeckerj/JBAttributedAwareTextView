@@ -1,0 +1,16 @@
+PODS:
+  - Masonry (0.4.0)
+  - TTTAttributedLabel (1.9.4)
+  - UIColor-Crayola (1.0)
+
+DEPENDENCIES:
+  - Masonry (~> 0.4.0)
+  - TTTAttributedLabel
+  - UIColor-Crayola
+
+SPEC CHECKSUMS:
+  Masonry: d673617c9cbc24aaea90fba20b10e47fd9970a39
+  TTTAttributedLabel: 617e14e3590a4afc9bc35dd999eb37e888996f36
+  UIColor-Crayola: 20eacda0777fd487efba6831e2b34625e8ce3ceb
+
+COCOAPODS: 0.31.1
